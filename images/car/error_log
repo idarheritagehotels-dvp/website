@@ -1,0 +1,4 @@
+[06-Jul-2017 22:42:26 UTC] PHP Parse error:  syntax error, unexpected '10' (T_LNUMBER), expecting variable (T_VARIABLE) in /home/imperial1993/public_html/dowlatvillaspalacetheheritage.com/images/car/ini_db_connector.php on line 37
+[06-Jul-2017 22:42:36 UTC] PHP Parse error:  syntax error, unexpected '10' (T_LNUMBER), expecting variable (T_VARIABLE) in /home/imperial1993/public_html/dowlatvillaspalacetheheritage.com/images/car/ini_db_connector.php on line 37
+[10-Jul-2017 10:06:33 UTC] PHP Parse error:  syntax error, unexpected '10' (T_LNUMBER), expecting variable (T_VARIABLE) in /home/imperial1993/public_html/dowlatvillaspalacetheheritage.com/images/car/ini_db_connector.php on line 37
+[10-Jul-2017 10:07:00 UTC] PHP Parse error:  syntax error, unexpected '10' (T_LNUMBER), expecting variable (T_VARIABLE) in /home/imperial1993/public_html/dowlatvillaspalacetheheritage.com/images/car/db_connector.php on line 35
